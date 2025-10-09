@@ -25,10 +25,10 @@
 ---
 
 ### 🧰 Skillset
-**Frontend:** React, Next.js, HTML, CSS, TailwindCSS
-**Backend:** Node.js, Prisma, Supabase, SQL
-**DevOps / Systems:** Docker, containerd, systemd, Linux, Nginx
-**Automation / Scripting:** Bash, Python, Discord.js
+**Frontend:** React, Next.js, HTML, CSS, TailwindCSS<br/>
+**Backend:** Node.js, Prisma, Supabase, SQL<br/>
+**DevOps / Systems:** Docker, containerd, systemd, Linux, Nginx<br/>
+**Automation / Scripting:** Bash, Python, Discord.js<br/>
 **Other Tools:** Git, Markdown
 
 <p>
