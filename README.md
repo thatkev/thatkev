@@ -8,6 +8,7 @@
 </p>
 
 <p align="center">
+  🗓️ Developer with over seven years of experience.<br/>
   ⚙️ JavaScript tinkerer & Quark Dev.<br/>
   💻 Full-stack stuff, mostly Next.js & TypeScript.<br/>
   🧩 I build things that mostly work and sometimes surprise me.
@@ -45,7 +46,7 @@
 ---
 
 ### 🔭 What I'm Working On
-- Helping shape **Quark**: a Discord bot used by 55K+ servers
+- Helping shape **Quark**: a Discord bot used by 70K+ servers
 - Rewriting things that were fine the first time
 - Debugging features I swear worked yesterday
 
