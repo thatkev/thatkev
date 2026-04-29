@@ -46,7 +46,7 @@
 ---
 
 ### 🔭 What I'm Working On
-- Helping shape **Quark**: a Discord bot used by 70K+ servers
+- Helping shape **Quark**: a Discord bot used by 80K+ servers
 - Rewriting things that were fine the first time
 - Debugging features I swear worked yesterday
 
